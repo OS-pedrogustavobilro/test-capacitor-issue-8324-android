@@ -1,0 +1,7 @@
+{
+  "name": "test-capacitor-issue-8324-android",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
